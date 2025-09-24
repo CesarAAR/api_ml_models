@@ -1,6 +1,4 @@
-Claro, puedo armar un README.md completo, claro y profesional para tu proyecto. Aquí tienes una propuesta:
 
-```markdown
 # Credit Card Fraud Detection API 
 
 Este proyecto es una **API en FastAPI** que permite predecir fraudes en transacciones con tarjetas de crédito usando un **modelo de machine learning entrenado con XGBoost**. Incluye procesamiento de datos (ETL) y escalado de features para garantizar que las predicciones sean consistentes con el modelo entrenado.
@@ -9,9 +7,7 @@ Este proyecto es una **API en FastAPI** que permite predecir fraudes en transacc
 
 ## Estructura del proyecto
 
-```
-
-.
+```graphql
 ├── etl/
 │   └── process.py            # Función de transformación de datos (ETL)
 ├── ml\_models/
