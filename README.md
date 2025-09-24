@@ -37,7 +37,7 @@ Este proyecto es una **API en FastAPI** que permite predecir fraudes en transacc
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/creditcard-fraud-api.git
+git clone https://github.com/CesarAAR/api_ml_models.git
 cd creditcard-fraud-api
 ````
 
